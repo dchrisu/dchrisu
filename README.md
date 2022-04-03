@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christopher Dang (@dchrisu).
 - 👀 I’m interested in DIY solutions (microcomputer projects & applications).
 - 🌱 I’m currently learning Node.JS/Express and MongoDB
-- 📫 How to reach me dchrisu@yahoo.com!
+- 📫 You can reach me at dchrisu@yahoo.com!
 
 <!---
 dchrisu/dchrisu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
