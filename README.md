@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christopher Dang (@dchrisu).
-- 👀 I’m interested in DIY solutions (microcomputer projects & applications).
-- 🌱 I’m currently learning Node.JS/Express and MongoDB
+- 👀 I’m interested in DIY & Mobile Apps solutions (microcomputer projects & applications).
+- 🌱 I’m currently learning .NET Maui
 - 📫 You can reach me at dchrisu@yahoo.com!
 
 <!---
